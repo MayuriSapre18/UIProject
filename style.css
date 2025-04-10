@@ -101,7 +101,8 @@ header{
     width: 100%; 
 }
 #product div img{
-    width: 50%;
+    width: 100%;
+    text-align: center;
 }
 #vid div img{
     width: 100%;
